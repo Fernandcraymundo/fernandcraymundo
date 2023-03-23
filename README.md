@@ -1,6 +1,3 @@
-### Olá! Eu sou o Fernando Raymundo ✌🙏
-- faco sites com HTML,CSS e Javascript
-- 🔭 Hoje estudando node
-- 
+### Olá! Eu sou o Fernando Raymundo✌🙏
 - 📫 Contato:doctorinformatica07@gmail.com 
 -->
